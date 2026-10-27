@@ -26,15 +26,21 @@ Desarrollador de aplicaciones &nbsp;·&nbsp; macOS &nbsp;·&nbsp; Web &nbsp;·&n
 
 ## Proyectos
 
-| | Proyecto | Qué hace | Stack |
-|---|---|---|---|
-| 🧽 | [**CleanBRUH**](https://github.com/pablo96sancho/CleanBRUH) | Bloquea teclado, ratón y trackpad para limpiar el Mac sin pulsar nada | Swift · macOS |
-| ☕ | [**Cafelero**](https://github.com/pablo96sancho/Cafelero) | Mantiene la pantalla del Mac encendida el tiempo que elijas | Swift · macOS |
-| 🔄 | [**ConvertBRUH**](https://github.com/pablo96sancho/ConvertBRUH) | Convierte archivos directamente desde el Finder | Swift · macOS |
-| 🕶️ | **UnRecent** *(próximamente)* | Quita archivos de "Recientes" de macOS sin borrarlos | Swift · macOS |
-| 🎚️ | **Djoko_vox** *(próximamente)* | Plugin de audio: channel strip para grabación, en fase de pruebas con usuarios | C++ |
-| 🛒 | [**Tienda online**](https://djokobeatz.com) *(código privado)* | E-commerce completo: pagos con Stripe, archivos en Cloudflare R2 y descargas con enlaces firmados | Next.js · TypeScript · Stripe · R2 · Vercel |
-| 🔌 | [**Juego de conectores**](https://github.com/pablo96sancho/Juego-Conectores-DAM) | Juego web para aprender los conectores internos y externos de un PC (proyecto de clase) | JavaScript · HTML · CSS |
+<p align="center">
+  <img src="./assets/finder-projects.es.svg" alt="Ventana del Finder «Proyectos»: CleanBRUH (Swift, macOS): bloquea teclado, ratón y trackpad para limpiar el Mac sin pulsar nada [Disponible]; Cafelero (Swift, macOS): mantiene la pantalla del Mac encendida el tiempo que elijas [Disponible]; ConvertBRUH (Swift, macOS): convierte archivos directamente desde el Finder [Disponible]; UnRecent (Swift, macOS): quita archivos de Recientes de macOS sin borrarlos [Próximamente]; Djoko_vox (C++): plugin de audio, channel strip para grabación, en pruebas con usuarios [Próximamente]; Tienda online (Next.js, Stripe, R2): e-commerce con pagos con Stripe, R2 y descargas con enlaces firmados [Privado]" />
+</p>
+
+<p align="center">
+
+[![CleanBRUH](https://img.shields.io/badge/CleanBRUH-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/pablo96sancho/CleanBRUH)
+&nbsp;
+[![Cafelero](https://img.shields.io/badge/Cafelero-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/pablo96sancho/Cafelero)
+&nbsp;
+[![ConvertBRUH](https://img.shields.io/badge/ConvertBRUH-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/pablo96sancho/ConvertBRUH)
+&nbsp;
+[![djokobeatz.com](https://img.shields.io/badge/djokobeatz.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://djokobeatz.com)
+
+</p>
 
 ## Stack
 
