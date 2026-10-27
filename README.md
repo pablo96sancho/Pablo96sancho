@@ -14,15 +14,9 @@ Desarrollador de aplicaciones &nbsp;·&nbsp; macOS &nbsp;·&nbsp; Web &nbsp;·&n
 
 </div>
 
-```zsh
-pablo@MacBook ~ % whoami
-Pablo Sancho — Valencia, España
-
-pablo@MacBook ~ % cat estado.txt
-Estudiando DAM (Desarrollo de Aplicaciones Multiplataforma)
-Ahora en clase: Java · HTML · CSS · SQL
-Abierto a proyectos y colaboraciones
-```
+<p align="center">
+  <img src="./assets/terminal-whoami.es.svg" alt="pablo@MacBookPro ~ % whoami — Pablo Sancho, Valencia. Estudiando DAM. Ahora en clase: Java, HTML, CSS y SQL. Abierto a proyectos y colaboraciones." />
+</p>
 
 ## Sobre mí
 
@@ -77,8 +71,6 @@ miro la seguridad desde el primer día.
 
 ## Contacto
 
-```zsh
-pablo@MacBook ~ % contact --help
-  email      pablo96sancho@gmail.com
-  linkedin   linkedin.com/in/pablo-sancho-alegre
-```
+<p align="center">
+  <img src="./assets/terminal-contact.svg" alt="pablo@MacBookPro ~ % contact --help — email: pablo96sancho@gmail.com · linkedin: linkedin.com/in/pablo-sancho-alegre" />
+</p>

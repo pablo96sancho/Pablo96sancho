@@ -14,15 +14,9 @@ App developer &nbsp;·&nbsp; macOS &nbsp;·&nbsp; Web &nbsp;·&nbsp; Multiplatfo
 
 </div>
 
-```zsh
-pablo@MacBook ~ % whoami
-Pablo Sancho — Valencia, Spain
-
-pablo@MacBook ~ % cat status.txt
-Studying Multiplatform App Development (DAM, Spanish higher vocational degree)
-Currently in class: Java · HTML · CSS · SQL
-Open to projects and collaborations
-```
+<p align="center">
+  <img src="./assets/terminal-whoami.en.svg" alt="pablo@MacBookPro ~ % whoami — Pablo Sancho, Valencia, Spain. Studying Multiplatform App Development. Currently in class: Java, HTML, CSS and SQL. Open to projects and collaborations." />
+</p>
 
 ## About me
 
@@ -76,8 +70,6 @@ think about security from day one.
 
 ## Contact
 
-```zsh
-pablo@MacBook ~ % contact --help
-  email      pablo96sancho@gmail.com
-  linkedin   linkedin.com/in/pablo-sancho-alegre
-```
+<p align="center">
+  <img src="./assets/terminal-contact.svg" alt="pablo@MacBookPro ~ % contact --help — email: pablo96sancho@gmail.com · linkedin: linkedin.com/in/pablo-sancho-alegre" />
+</p>
