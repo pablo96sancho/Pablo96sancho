@@ -20,16 +20,9 @@ Desarrollador de aplicaciones &nbsp;·&nbsp; macOS &nbsp;·&nbsp; Web &nbsp;·&n
 
 ## Sobre mí
 
-Estudio **Desarrollo de Aplicaciones Multiplataforma** y programo apps para macOS en
-Swift en mi tiempo libre: pequeñas herramientas que resuelven problemas que tenía yo
-mismo.
-
-También he construido de cero mi propia **tienda online**, con pagos reales,
-almacenamiento en la nube y descargas protegidas. Además de programar, soy productor
-musical, y eso me ha hecho trabajar con clientes, plazos y producto desde hace años.
-
-Antes del superior hice el **bootcamp de ciberseguridad de The Bridge**, así que
-miro la seguridad desde el primer día.
+<p align="center">
+  <img src="./assets/finder-about.es.svg" alt="Ventana del Finder «Sobre mí»: Estudios DAM (Desarrollo de Aplicaciones Multiplataforma, en curso); Apps macOS (herramientas en Swift para problemas que tenía yo); Tienda online (hecha de cero: pagos, nube y descargas protegidas); Música (productor: clientes, plazos y producto desde hace años); Ciberseguridad (bootcamp de The Bridge: seguridad desde el primer día)" />
+</p>
 
 ## Proyectos
 
@@ -45,29 +38,9 @@ miro la seguridad desde el primer día.
 
 ## Stack
 
-**Lenguajes** &nbsp;
-![Swift](https://img.shields.io/badge/Swift-000000?style=flat-square&logo=swift&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css&logoColor=white)
-
-**Frameworks y servicios** &nbsp;
-![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=flat-square&logo=swift&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-000000?style=flat-square&logo=stripe&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-000000?style=flat-square&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**Herramientas** &nbsp;
-![Xcode](https://img.shields.io/badge/Xcode-000000?style=flat-square&logo=xcode&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
-
-**Aprendiendo** &nbsp;
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="./assets/finder-stack.es.svg" alt="Ventana del Finder «Stack». Lenguajes: Swift, C++, Java, TypeScript, JavaScript, HTML, CSS. Frameworks y servicios: SwiftUI, Next.js, Stripe, Cloudflare R2, Vercel. Herramientas: Xcode, VS Code, Git. Aprendiendo: SQL" />
+</p>
 
 ## Contacto
 
