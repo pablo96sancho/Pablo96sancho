@@ -21,13 +21,13 @@ App developer &nbsp;·&nbsp; macOS &nbsp;·&nbsp; Web &nbsp;·&nbsp; Multiplatfo
 ## About me
 
 <p align="center">
-  <img src="./assets/finder-about.en.svg" alt="Finder window “About me”: DAM studies (Multiplatform Application Development, in progress); macOS apps (Swift tools for problems I had myself); Online store (built from scratch: payments, cloud, secure downloads); Music (producer: clients, deadlines and product for years); Cybersecurity (The Bridge bootcamp: security from day one)" />
+  <img src="./assets/finder-about.en.svg" alt="Finder window “About me”: DAM studies (Multiplatform Application Development, in progress); macOS apps (Swift tools for problems I had myself); djokobeatz.com (my website with a store, built from scratch); Music (producer: clients, deadlines and product for years); Cybersecurity (The Bridge bootcamp: security from day one)" />
 </p>
 
 ## Projects
 
 <p align="center">
-  <img src="./assets/finder-projects.en.svg" alt="Finder window “Projects”: CleanBRUH (Swift, macOS): locks keyboard, mouse and trackpad so you can clean your Mac [Available]; Cafelero (Swift, macOS): keeps your Mac's screen on for as long as you choose [Available]; ConvertBRUH (Swift, macOS): converts files right from the Finder [Available]; UnRecent (Swift, macOS): removes files from macOS Recents without deleting them [Coming soon]; Djoko_vox (C++): audio plugin, a recording channel strip in testing with users [Coming soon]; Online store (Next.js, Stripe, R2): e-commerce with Stripe payments, R2 and signed download links [Private]" />
+  <img src="./assets/finder-projects.en.svg" alt="Finder window “Projects”: CleanBRUH (Swift, macOS): locks keyboard, mouse and trackpad so you can clean your Mac [Available]; Cafelero (Swift, macOS): keeps your Mac's screen on for as long as you choose [Available]; ConvertBRUH (Swift, macOS): converts files right from the Finder [Available]; UnRecent (Swift, macOS): removes files from macOS Recents without deleting them [Coming soon]; Djoko_vox (C++): audio plugin, a recording channel strip in testing with users [Coming soon]; djokobeatz.com (Next.js, Stripe, R2): my site with a store, with Stripe, R2 and signed downloads; payments paused [Private]" />
 </p>
 
 <p align="center">

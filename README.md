@@ -21,13 +21,13 @@ Desarrollador de aplicaciones &nbsp;·&nbsp; macOS &nbsp;·&nbsp; Web &nbsp;·&n
 ## Sobre mí
 
 <p align="center">
-  <img src="./assets/finder-about.es.svg" alt="Ventana del Finder «Sobre mí»: Estudios DAM (Desarrollo de Aplicaciones Multiplataforma, en curso); Apps macOS (herramientas en Swift para problemas que tenía yo); Tienda online (hecha de cero: pagos, nube y descargas protegidas); Música (productor: clientes, plazos y producto desde hace años); Ciberseguridad (bootcamp de The Bridge: seguridad desde el primer día)" />
+  <img src="./assets/finder-about.es.svg" alt="Ventana del Finder «Sobre mí»: Estudios DAM (Desarrollo de Aplicaciones Multiplataforma, en curso); Apps macOS (herramientas en Swift para problemas que tenía yo); djokobeatz.com (mi web con tienda, hecha de cero); Música (productor: clientes, plazos y producto desde hace años); Ciberseguridad (bootcamp de The Bridge: seguridad desde el primer día)" />
 </p>
 
 ## Proyectos
 
 <p align="center">
-  <img src="./assets/finder-projects.es.svg" alt="Ventana del Finder «Proyectos»: CleanBRUH (Swift, macOS): bloquea teclado, ratón y trackpad para limpiar el Mac sin pulsar nada [Disponible]; Cafelero (Swift, macOS): mantiene la pantalla del Mac encendida el tiempo que elijas [Disponible]; ConvertBRUH (Swift, macOS): convierte archivos directamente desde el Finder [Disponible]; UnRecent (Swift, macOS): quita archivos de Recientes de macOS sin borrarlos [Próximamente]; Djoko_vox (C++): plugin de audio, channel strip para grabación, en pruebas con usuarios [Próximamente]; Tienda online (Next.js, Stripe, R2): e-commerce con pagos con Stripe, R2 y descargas con enlaces firmados [Privado]" />
+  <img src="./assets/finder-projects.es.svg" alt="Ventana del Finder «Proyectos»: CleanBRUH (Swift, macOS): bloquea teclado, ratón y trackpad para limpiar el Mac sin pulsar nada [Disponible]; Cafelero (Swift, macOS): mantiene la pantalla del Mac encendida el tiempo que elijas [Disponible]; ConvertBRUH (Swift, macOS): convierte archivos directamente desde el Finder [Disponible]; UnRecent (Swift, macOS): quita archivos de Recientes de macOS sin borrarlos [Próximamente]; Djoko_vox (C++): plugin de audio, channel strip para grabación, en pruebas con usuarios [Próximamente]; djokobeatz.com (Next.js, Stripe, R2): mi web con tienda, con Stripe, R2 y descargas firmadas; pagos en pausa [Privado]" />
 </p>
 
 <p align="center">

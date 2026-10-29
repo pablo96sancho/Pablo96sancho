@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460" xml:space="preserve" role="img" aria-label="Finder — Projects: CleanBRUH (Swift · macOS): Locks keyboard, mouse and trackpad so you can clean your Mac [Available]; Cafelero (Swift · macOS): Keeps your Mac&#x27;s screen on for as long as you choose [Available]; ConvertBRUH (Swift · macOS): Converts files right from the Finder [Available]; UnRecent (Swift · macOS): Removes files from macOS “Recents” without deleting them [Coming soon]; Djoko_vox (C++): Audio plugin: a recording channel strip, in testing with users [Coming soon]; Online store (Next.js · Stripe · R2): E-commerce: Stripe payments, R2 and signed download links [Private]">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460" xml:space="preserve" role="img" aria-label="Finder — Projects: CleanBRUH (Swift · macOS): Locks keyboard, mouse and trackpad so you can clean your Mac [Available]; Cafelero (Swift · macOS): Keeps your Mac&#x27;s screen on for as long as you choose [Available]; ConvertBRUH (Swift · macOS): Converts files right from the Finder [Available]; UnRecent (Swift · macOS): Removes files from macOS “Recents” without deleting them [Coming soon]; Djoko_vox (C++): Audio plugin: a recording channel strip, in testing with users [Coming soon]; djokobeatz.com (Next.js · Stripe · R2): My site with a store: Stripe, R2 and signed downloads (payments paused) [Private]">
   <defs>
     <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
       <feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#000" flood-opacity="0.28"/>
@@ -114,10 +114,10 @@
   <clipPath id="ic5"><rect x="186" y="352" width="38" height="38" rx="8.6"/></clipPath>
   <g clip-path="url(#ic5)"><rect x="186" y="352" width="38" height="38" fill="#5E5CE6"/><rect x="186" y="352" width="38" height="38" fill="url(#gloss)"/><g transform="translate(186 352) scale(0.95)"><g fill="none" stroke="#FFF" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"><path d="M12,15 H28 L29.5,31 H10.5 Z"/><path d="M15.5,15 V13 Q15.5,8.5 20,8.5 Q24.5,8.5 24.5,13 V15"/></g></g></g>
   <rect x="186.5" y="352.5" width="37" height="37" rx="8.2" fill="none" stroke="#FFF" stroke-opacity="0.12"/>
-  <text class="name" x="234" y="368" font-weight="600">Online store</text>
+  <text class="name" x="234" y="368" font-weight="600">djokobeatz.com</text>
   <text class="path" x="234" y="384">Next.js · Stripe · R2</text>
-  <text class="cmt" x="362" y="368" font-size="12.5">E-commerce: Stripe payments, R2</text>
-  <text class="cmt" x="362" y="384" font-size="12.5">and signed download links</text>
+  <text class="cmt" x="362" y="368" font-size="12.5">My site with a store: Stripe, R2 and</text>
+  <text class="cmt" x="362" y="384" font-size="12.5">signed downloads (payments paused)</text>
   <circle cx="619" cy="371" r="5" fill="#BF5AF2"/>
   <text class="cmt" x="630" y="375" font-size="12.5">Private</text>
   <line x1="170" y1="404.5" x2="740" y2="404.5" stroke="#FFF" stroke-opacity="0.08"/>

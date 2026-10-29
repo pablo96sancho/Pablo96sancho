@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="312" viewBox="0 0 760 312" xml:space="preserve" role="img" aria-label="Finder — About me: DAM studies: Multiplatform Application Development, in progress; macOS apps: Swift tools for problems I had myself; Online store: Built from scratch: payments, cloud, secure downloads; Music: Producer: clients, deadlines and product for years; Cybersecurity: The Bridge bootcamp: security from day one">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="312" viewBox="0 0 760 312" xml:space="preserve" role="img" aria-label="Finder — About me: DAM studies: Multiplatform Application Development, in progress; macOS apps: Swift tools for problems I had myself; djokobeatz.com: My website with a store, built from scratch; Music: Producer: clients, deadlines and product for years; Cybersecurity: The Bridge bootcamp: security from day one">
   <defs>
     <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
       <feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#000" flood-opacity="0.28"/>
@@ -72,8 +72,8 @@
   <text class="cmt" x="366" y="142.5">Swift tools for problems I had myself</text>
   <path d="M186,162 l3.5,4 l-3.5,4" fill="none" stroke="#8E8E93" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
   <g transform="translate(200 159) scale(1.0)"><path d="M0,2 Q0,0 2,0 H6.5 L8.5,2 H16 Q18,2 18,4 V12 Q18,14 16,14 H2 Q0,14 0,12 Z" fill="#2F8FE8"/><path d="M0,5 Q0,3.5 1.5,3.5 H16.5 Q18,3.5 18,5 V12 Q18,14 16,14 H2 Q0,14 0,12 Z" fill="#5DB2FA"/></g>
-  <text class="name" x="226" y="170.5">Online store</text>
-  <text class="cmt" x="366" y="170.5">Built from scratch: payments, cloud, secure downloads</text>
+  <text class="name" x="226" y="170.5">djokobeatz.com</text>
+  <text class="cmt" x="366" y="170.5">My website with a store, built from scratch</text>
   <rect x="178" y="180" width="554" height="28" rx="5" fill="#FFF" fill-opacity="0.035"/>
   <path d="M186,190 l3.5,4 l-3.5,4" fill="none" stroke="#8E8E93" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
   <g transform="translate(200 187) scale(1.0)"><path d="M0,2 Q0,0 2,0 H6.5 L8.5,2 H16 Q18,2 18,4 V12 Q18,14 16,14 H2 Q0,14 0,12 Z" fill="#2F8FE8"/><path d="M0,5 Q0,3.5 1.5,3.5 H16.5 Q18,3.5 18,5 V12 Q18,14 16,14 H2 Q0,14 0,12 Z" fill="#5DB2FA"/></g>
